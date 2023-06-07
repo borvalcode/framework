@@ -1,0 +1,7 @@
+*.swp
+.idea/
+target/
+dependency-reduced-pom.xml
+.java-version
+/*.yml
+/log/
